@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: library-management-system
+    runtime: docker
+    plan: free
+    autoDeploy: true
